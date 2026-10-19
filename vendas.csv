@@ -1,0 +1,101 @@
+﻿data,modelo,anoModelo,preco,pagamento,cidade,estado,status,familia,grupoStatus
+,718 Cayman,2022,79500.0,Credit Card,Boston,MA,Delivered,718,Entregue
+2024-03-14,911 Turbo S,2024,235000.0,Wire Transfer,Seattle,WA,Delivered,911,Entregue
+2024-04-18,Cayenne Coupe,2023,112750.0,Financing,Austin,TX,In Transit,Cayenne,Em andamento
+,Macan S,2021,68900.0,Cash,Denver,CO,Pending,Macan,Em andamento
+2024-05-22,Taycan 4S,2024,121000.0,Bank Transfer,Los Angeles,CA,Delivered,Taycan,Entregue
+2024-08-06,Panamera 4,2023,104500.0,Credit Card,Miami,FL,Cancelled,Panamera,Cancelada
+2024-07-11,911 Carrera S,2020,96300.0,Lease,New York,NY,Delivered,911,Entregue
+,Cayenne E-Hybrid,2022,89750.0,Wire Transfer,San Diego,CA,Pending Approval,Cayenne,Em andamento
+2024-08-19,718 Boxster,2021,73500.0,Debit Card,Chicago,IL,Shipped,718,Em andamento
+2024-09-02,Macan GTS,2024,95000.0,Financing,Phoenix,AZ,In Transit,Macan,Em andamento
+2024-09-17,Taycan Turbo,2023,153200.5,ACH Payment,Dallas,TX,Delivered,Taycan,Entregue
+,911 GT3,2024,241000.0,Wire Transfer,Las Vegas,NV,Pending,911,Em andamento
+2024-05-11,Panamera Turbo S,2022,132000.0,Cash,San Jose,CA,Delivered,Panamera,Entregue
+2024-12-12,Cayenne Turbo GT,2024,188000.0,Crypto Payment,Houston,TX,Awaiting Delivery,Cayenne,Em andamento
+2024-12-25,911 Carrera Cabriolet,2023,127800.0,Credit Card,Atlanta,GA,Delivered,911,Entregue
+2025-01-06,Macan,2021,58900.0,Bank Transfer,Orlando,FL,Pending,Macan,Em andamento
+,718 Spyder RS,2024,164000.0,Financing,Portland,OR,In Transit,718,Em andamento
+2025-02-14,Taycan Cross Turismo,2023,118500.0,Wire Transfer,Charlotte,NC,Delivered,Taycan,Entregue
+,Cayenne S,2022,91300.0,Credit Card,Nashville,TN,Pending,Cayenne,Em andamento
+2025-03-21,911 Targa 4S,2024,158750.0,Lease,Minneapolis,MN,Delivered,911,Entregue
+2025-03-28,Panamera,2020,72000.0,Bank Transfer,Philadelphia,PA,Cancelled,Panamera,Cancelada
+2025-04-09,Macan Electric,2025,86500.0,Wire Transfer,San Antonio,TX,Delivered,Macan,Entregue
+,911 Dakar,2024,270000.0,Cash,Salt Lake City,UT,Awaiting Pickup,911,Em andamento
+2025-05-12,Taycan GTS,2023,139000.0,Financing,Raleigh,NC,In Transit,Taycan,Em andamento
+2025-06-18,Cayenne,2021,76800.0,Credit Card,Detroit,MI,Delivered,Cayenne,Entregue
+,718 Cayman GT4 RS,2024,173600.0,Wire Transfer,Columbus,OH,Pending,718,Em andamento
+2025-07-07,911 Carrera GTS,2022,119900.0,Cash,Indianapolis,IN,Delivered,911,Entregue
+2025-07-22,Panamera 4 E-Hybrid,2023,109250.0,Lease,Fort Worth,TX,In Transit,Panamera,Em andamento
+2025-08-14,Macan T,2022,82000.0,Wire Transfer,Jacksonville,FL,Delivered,Macan,Entregue
+2025-09-01,Taycan Turbo S,2025,214000.0,Crypto Payment,San Diego,CA,Pending Review,Taycan,Em andamento
+,911 Carrera,2024,124500.0,Credit Card,Tampa,FL,Delivered,911,Entregue
+2025-09-18,Cayenne S,2023,98200.0,Bank Transfer,Sacramento,CA,Pending,Cayenne,Em andamento
+2025-10-04,Macan,2022,67500.0,Financing,Cleveland,OH,Delivered,Macan,Entregue
+2025-10-12,Taycan,2025,116900.0,Wire Transfer,Milwaukee,WI,In Transit,Taycan,Em andamento
+2025-10-29,Panamera 4S,2024,112000.0,Cash,Kansas City,MO,Delivered,Panamera,Entregue
+2025-02-11,718 Boxster,2021,74000.0,Debit Card,Omaha,NE,Cancelled,718,Cancelada
+2025-11-16,911 Turbo,2024,198300.0,Wire Transfer,Albuquerque,NM,Awaiting Delivery,911,Em andamento
+,Cayenne Coupe,2023,103750.0,Wire Transfer,Tucson,AZ,Pending Approval,Cayenne,Em andamento
+,Macan GTS,2024,93600.0,Financing,Fresno,CA,Shipped,Macan,Em andamento
+2025-12-07,Taycan 4S,2025,129000.0,ACH Payment,Virginia Beach,VA,In Transit,Taycan,Em andamento
+2025-12-22,Panamera Turbo,2022,136000.0,Credit Card,Colorado Springs,CO,Delivered,Panamera,Entregue
+,911 GT3 RS,2024,286500.0,Wire Transfer,Arlington,TX,Pending,911,Em andamento
+2026-01-08,Cayenne E-Hybrid,2023,92800.0,Lease,Bakersfield,CA,Delivered,Cayenne,Entregue
+2026-01-15,Macan T,2022,72400.0,Cash,Mesa,AZ,Awaiting Pickup,Macan,Em andamento
+2026-01-28,Taycan Turbo,2025,158500.0,Crypto Payment,Atlanta,GA,Delivered,Taycan,Entregue
+2026-02-03,718 Cayman,2021,69900.0,Bank Transfer,Long Beach,CA,Pending,718,Em andamento
+,911 Targa 4,2024,141250.0,Financing,Oakland,CA,In Transit,911,Em andamento
+2026-02-19,Panamera,2020,71500.0,Wire Transfer,Tulsa,OK,Delivered,Panamera,Entregue
+2026-02-25,Cayenne Turbo,2023,146800.0,Credit Card,Wichita,KS,Pending,Cayenne,Em andamento
+2026-03-01,Macan Electric,2025,89700.0,Lease,New Orleans,LA,Delivered,Macan,Entregue
+2026-03-14,911 Carrera S,2022,104600.0,Bank Transfer,Honolulu,HI,Cancelled,911,Cancelada
+,Taycan GTS,2024,142000.0,Wire Transfer,Anaheim,CA,Delivered,Taycan,Entregue
+2026-04-08,Cayenne,2021,78400.0,Cash,Henderson,NV,Awaiting Review,Cayenne,Em andamento
+,718 Spyder RS,2025,169000.0,Financing,Lexington,KY,In Transit,718,Em andamento
+2026-04-21,911 Dakar,2024,268900.0,Credit Card,Riverside,CA,Delivered,911,Entregue
+2026-04-29,Panamera 4,2023,101300.0,Wire Transfer,Corpus Christi,TX,Pending,Panamera,Em andamento
+2026-05-05,Macan S,2021,66750.0,Cash,St. Louis,MO,Delivered,Macan,Entregue
+2026-05-14,Taycan Cross Turismo,2024,127900.0,Lease,Pittsburgh,PA,In Transit,Taycan,Em andamento
+2026-05-23,Cayenne Turbo GT,2025,200000.0,Wire Transfer,Cincinnati,OH,Delivered,Cayenne,Entregue
+2026-06-02,911 Carrera Cabriolet,2023,132000.0,Crypto Payment,Anchorage,AK,Pending Review,911,Em andamento
+2026-06-15,718 Cayman GT4 RS,2024,176400.0,Credit Card,Plano,TX,Delivered,718,Entregue
+,Panamera 4 E-Hybrid,2022,108500.0,Bank Transfer,Newark,NJ,Cancelled,Panamera,Cancelada
+2026-07-07,Macan,2021,59000.0,Financing,Greensboro,NC,Awaiting Delivery,Macan,Em andamento
+2026-07-20,Taycan Turbo S,2025,218000.0,Wire Transfer,Lincoln,NE,Pending,Taycan,Em andamento
+,Cayenne S,2024,99950.0,Debit Card,Jersey City,NJ,Delivered,Cayenne,Entregue
+2026-04-08,911 Carrera GTS,2024,121750.0,Credit Card,Chandler,AZ,Delivered,911,Entregue
+2026-08-18,718 Boxster GTS,2023,91500.0,Lease,Reno,NV,Shipped,718,Em andamento
+2026-08-31,Panamera Turbo S,2022,134000.0,Wire Transfer,Buffalo,NY,In Transit,Panamera,Em andamento
+2026-09-09,Macan GTS,2024,96800.0,ACH Payment,Durham,NC,Delivered,Macan,Entregue
+2026-09-17,Taycan 4S,2025,131600.0,Wire Transfer,Laredo,TX,Pending Approval,Taycan,Em andamento
+2026-09-28,Cayenne E-Hybrid,2023,94300.0,Cash,Madison,WI,Delivered,Cayenne,Entregue
+2026-10-06,911 Turbo S,2025,242000.0,Crypto Payment,Lubbock,TX,Awaiting Pickup,911,Em andamento
+2026-10-16,718 Cayman S,2022,82750.0,Credit Card,Toledo,OH,Cancelled,718,Cancelada
+2026-10-29,Macan Electric,2026,91300.0,Wire Transfer,Irvine,CA,Delivered,Macan,Entregue
+2026-11-03,Panamera,2021,79900.0,Financing,Garland,TX,Pending,Panamera,Em andamento
+,Cayenne Coupe,2024,111000.0,Bank Transfer,Irving,TX,In Transit,Cayenne,Em andamento
+2026-12-11,911 Targa 4S,2023,156500.0,Cash,Chesapeake,VA,Delivered,911,Entregue
+2026-12-24,Taycan,2025,119900.0,Lease,Scottsdale,AZ,Pending,Taycan,Em andamento
+,Macan T,2022,73200.0,Wire Transfer,Norfolk,VA,Delivered,Macan,Entregue
+2026-12-28,911 GT3,2024,224000.0,Wire Transfer,Boise,ID,Awaiting Delivery,911,Em andamento
+2027-01-15,911 Carrera,2024,126900.0,Credit Card,Orlando,FL,Delivered,911,Entregue
+2027-01-29,Cayenne,2023,84500.0,Bank Transfer,San Jose,CA,Pending,Cayenne,Em andamento
+2027-02-11,Macan S,2022,69800.0,Financing,Tampa,FL,Delivered,Macan,Entregue
+,Taycan 4S,2025,132700.0,Wire Transfer,Denver,CO,In Transit,Taycan,Em andamento
+2027-03-05,Panamera,2021,81000.0,Cash,Austin,TX,Delivered,Panamera,Entregue
+2027-03-18,718 Cayman,2023,78900.0,Debit Card,Seattle,WA,Cancelled,718,Cancelada
+2027-04-02,911 Turbo S,2026,249300.0,Wire Transfer,Boston,MA,Awaiting Delivery,911,Em andamento
+,Cayenne Coupe,2024,108750.0,Wire Transfer,Phoenix,AZ,Pending Approval,Cayenne,Em andamento
+,Macan Electric,2026,92600.0,Financing,Chicago,IL,Shipped,Macan,Em andamento
+2027-05-12,Taycan Turbo,2025,164000.0,ACH Payment,Dallas,TX,In Transit,Taycan,Em andamento
+2027-05-27,Panamera 4S,2024,119000.0,Credit Card,San Francisco,CA,Delivered,Panamera,Entregue
+,911 GT3,2026,232500.0,Wire Transfer,Las Vegas,NV,Pending,911,Em andamento
+2027-06-18,Cayenne E-Hybrid,2023,96800.0,Lease,Charlotte,NC,Delivered,Cayenne,Entregue
+2027-07-03,Macan T,2022,74400.0,Cash,Mesa,AZ,Awaiting Pickup,Macan,Em andamento
+2027-07-22,Taycan GTS,2025,148500.0,Crypto Payment,Atlanta,GA,Delivered,Taycan,Entregue
+2027-08-08,718 Boxster,2021,71900.0,Bank Transfer,Long Beach,CA,Pending,718,Em andamento
+,911 Targa 4,2024,143250.0,Financing,Oakland,CA,In Transit,911,Em andamento
+2027-09-19,Panamera Turbo,2020,137500.0,Wire Transfer,Tulsa,OK,Delivered,Panamera,Entregue
+2027-09-25,Cayenne Turbo GT,2025,204800.0,Credit Card,Wichita,KS,Pending,Cayenne,Em andamento
+2027-10-01,911 Dakar,2024,271700.0,Lease,New Orleans,LA,Delivered,911,Entregue
